@@ -53,3 +53,4 @@ Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Li
 
 ## RESULT.
 Torque Speed Characteristics of DC Series Motor is analysed and simulated
+
